@@ -17,7 +17,7 @@ export default function Index() {
           params: {name: "Thomas"}
         }} 
         push asChild>
-        <Button>New Parameter Buttton</Button>
+        <Button> New New Parameter Buttton</Button>
       </Link>
 
       <Link href="/details/2" asChild>
